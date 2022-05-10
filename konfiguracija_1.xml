@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="cijenaMin">0</entry>
+<entry key="sortiranje">expensive</entry>
+<entry key="cijenaMax">400</entry>
+<entry key="putanjaDatotekeObroka">obroci.txt</entry>
+<entry key="kljucneRijeci">lego batmobile, lego batman</entry>
+<entry key="intervalUMinutama">60</entry>
+<entry key="koordinateAplikacijeY">0</entry>
+<entry key="koordinateAplikacijeX">0</entry>
+<entry key="maxOglasaPoUpitu">3</entry>
+</properties>
